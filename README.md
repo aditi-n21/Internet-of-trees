@@ -7,7 +7,8 @@ In this work, we relied on Wireless Sensor Network (WSN). All nodes planted on t
  threshold temperature, above it the node will send an alarm message to the source station. The base station sends the data to cloud-based software for processing by monitoring 
 temperature changes over multiple sensors, map its shape and predict its path—functions they expect to be hugely helpful for firefighting.
 
-##DETAILED METHODOLOGY
+#DETAILED METHODOLOGY
+
 CASE 1: During Normal Conditions
 At a particular time interval if the temperature ‘T’ which is output of temperature sensor is below the threshold value will indicate that there is no forest fire.
 These temperature values along with the value of humidity and smoke will be transmitted in real time to base station so as monitor the forest environment condition continuously. 
