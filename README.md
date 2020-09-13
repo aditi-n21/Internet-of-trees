@@ -32,5 +32,6 @@ The overall system “Forest fire Detection and prediction over IoT” consists 
 
 •	ADXL335 – accelerometer gives vibration of motion values.
 
-This whole sensor values uploaded to the open source cloud Thing speak. In that cloud we can visualize the values in form of plots – live updated values
-Using that cloud API, we can predict the scenario if it is exceeding the preset values it automatically sent mail to users.
+- This whole sensor values uploaded to the open source cloud Thing speak. 
+- In that cloud we can visualize the values in form of plots – live updated values
+- Using that cloud API, we can predict the scenario if it is exceeding the preset values it automatically sent mail to users.
