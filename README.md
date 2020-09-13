@@ -1,10 +1,14 @@
 # Internet-of-trees
-“Fire is a good servant, but a bad master”. The problem with forest fires is that the forests are usually remote, abandoned areas with trees, dry and parching wood, 
-leaves, and so forth that act as a fuel source. The fire destroys most of the flora and fauna of the region, hence severely affecting the ecological balance. 
+“Fire is a good servant, but a bad master”. 
+- The problem with forest fires is that the forests are usually remote, abandoned areas with trees, dry and parching wood, 
+leaves, and so forth that act as a fuel source. 
+- The fire destroys most of the flora and fauna of the region, hence severely affecting the ecological balance. 
 While India loses Rs 1,176 crore a year to forest fires, a mere Rs 45-50 crore is allocated per annum under the Forest Fire prevention and Management Fund, which remains unspent.
 
-In this work, we relied on Wireless Sensor Network (WSN). All nodes planted on trees with known location use temperature and smoke sensors as they are programmed on a certain
- threshold temperature, above it the node will send an alarm message to the source station. The base station sends the data to cloud-based software for processing by monitoring 
+- In this work, we relied on Wireless Sensor Network (WSN). 
+- All nodes planted on trees with known location use temperature and smoke sensors as they are programmed on a certain
+ threshold temperature, above it the node will send an alarm message to the source station. 
+ - The base station sends the data to cloud-based software for processing by monitoring 
 temperature changes over multiple sensors, map its shape and predict its path—functions they expect to be hugely helpful for firefighting.
 
 #DETAILED METHODOLOGY
